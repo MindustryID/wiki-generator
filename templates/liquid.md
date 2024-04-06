@@ -8,6 +8,6 @@ $stats
 
 --- 
 
-##### Produced in <br>$produced
+##### Diproduksi di <br>$produced
 
-##### Required for <br>$crafting
+##### Dibutuhkan untuk <br>$crafting

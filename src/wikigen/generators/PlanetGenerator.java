@@ -57,7 +57,7 @@ public class PlanetGenerator extends FileGenerator<Planet>{
                 sector.preset = null;
             }
 
-            Log.info("| | Sector: @/@", sector.id, planet.sectors.size);
+            Log.info("| | Sektor: @/@", sector.id, planet.sectors.size);
 
             Vars.logic.reset();
             Vars.world.loadSector(sector);

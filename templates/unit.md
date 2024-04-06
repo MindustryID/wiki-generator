@@ -4,8 +4,8 @@
 *"$description"*  
 
 $stats
-|Internal Name|`$internalname`|
+|Nama Internal|`$internalname`|
 
 --- 
 
-##### Created in <br>$created
+##### Dibuat di <br>$created

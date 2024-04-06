@@ -39,6 +39,7 @@ public class Generator{
         Core.input = new MockInput();
 
         Core.settings.setAppName("Mindustry");
+        Core.settings.put("locale","id_ID");
 
         //TODO exotic doesn't work anymore.
         /*
@@ -51,7 +52,7 @@ public class Generator{
 
         //generate locale file manually
         if(!Core.files.local("locales").exists()){
-            Core.files.local("locales").writeString("en");
+            Core.files.local("locales").writeString("id_ID");
         }
 
         Config.outDirectory.deleteDirectory();

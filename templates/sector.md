@@ -4,14 +4,14 @@
 
 $description
 
-| Property | Value |
-| ----------- | ----------- |
-|Mode|$mode|
-|Resources|$resources|
-|Difficulty|$difficulty|
-|Capture Wave|$captureWaves|
+| Property                  | Value |
+|---------------------------| ----------- |
+| Mode                      |$mode|
+| Sumber Daya               |$resources|
+| Tingkat                   |$difficulty|
+| Gelombang untuk Menguasai |$captureWaves|
 
-## Waves
+## Gelombang
 
 | Wave | Spawned |
 | ----------- | ----------- |

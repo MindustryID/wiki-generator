@@ -12,8 +12,8 @@ $stats
 
 --- 
 
-##### Produced in <br>$produced
+##### Diproduksi di <br>$produced
 
-##### Required for <br>$crafting
+##### Dibutuhkan untuk <br>$crafting
 
-##### Used to build <br>$used
+##### Digunakan untuk Membangun <br>$used

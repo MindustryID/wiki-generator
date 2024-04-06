@@ -3,10 +3,10 @@
 *"$description"*
 
 $stats
-|Item Resource|$itemDrop|
-|Liquid Resource|$liquidDrop|
-|Speed Multiplier|$speedMultiplier|
-|Drag Multiplier|$dragMultiplier|
+|Sumber Daya Item|$itemDrop|
+|Sumber Daya Cairan|$liquidDrop|
+|Peganda Kecepatan|$speedMultiplier|
+|Peganda Dorongan|$dragMultiplier|
 |Status|$status|
 
 --- 
