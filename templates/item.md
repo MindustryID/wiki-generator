@@ -4,11 +4,11 @@
 *"$description"*  
 
 $stats
-|Internal Name|`$name`|
-|Color|`$color`|
-|Naturally Occurring|$drillable|
-|Build Cost|$cost|
-|Hardness|$hardness|
+|Nama Internal|`$name`|
+|Warna|`$color`|
+|Terjadi Secara Natural|$drillable|
+|Biaya Pembangunan|$cost|
+|Ketahanan|$hardness|
 
 --- 
 

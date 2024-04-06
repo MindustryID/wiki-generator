@@ -3,8 +3,8 @@
 *"$description"*
 
 $stats
-|Internal Name|`$name`|
-|Color|`$color`|
+|Nama Internal|`$name`|
+|Warna|`$color`|
 
 --- 
 

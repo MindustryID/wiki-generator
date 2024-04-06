@@ -1,8 +1,8 @@
 # $localizedName
 
-| Property | Value |
-| ----------- | ----------- |
-|Sectors|$sectors|
-|Resources|$resources|
+| Property    | Value |
+|-------------| ----------- |
+| Sektor      |$sectors|
+| Sumber Daya |$resources|
 
 --- 
