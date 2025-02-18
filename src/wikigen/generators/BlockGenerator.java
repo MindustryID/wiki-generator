@@ -37,7 +37,7 @@ public class BlockGenerator extends FileGenerator<Block>{
     @Override
     public Fi file(Block b){
         return Config.outDirectory
-        .child(b.synthetic() ? "blocks" : "Environment Blocks")
+        .child(b.synthetic() ? "blok" : "Blok Lingkungan")
         .child(linkPath(b) + ".md");
     }
 
